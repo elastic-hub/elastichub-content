@@ -1,6 +1,6 @@
 ---
-title: "ElasticHub Content Repository"
-description: "A collection of content and resources for ElasticHub."
+title: README
+description: A collection of content and resources for ElasticHub
 layout: web
 ---
 
