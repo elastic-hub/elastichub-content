@@ -147,13 +147,8 @@ Explicit ordering reduces ambiguity during review and publication.
 
 Legal and licensing content must be included **explicitly** in the document assembly.
 
-In practice:
+Please refer to [Managing Legal Disclaimers and Licenses](managing_legal_disclaimers_and_licenses.md) for detailed guidance.    
 
-- License content is authored as a Markdown file (e.g. `License.md`)  
-- The license file is listed in the `files` sequence  
-- Its position in the list determines where it appears in the document  
-
-This approach ensures that legal material is versioned, reviewable, and published consistently.
 
 ---
 
