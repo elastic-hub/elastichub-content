@@ -136,6 +136,6 @@ Each topic is covered in its own guideline and can be applied independently.
 
 Publishing structure is what turns a collection of files into a coherent technical specification.
 
-PubHub supports this by making document assembly explicit and repeatable, while leaving authorship, governance, and editorial judgment with the organization.
+PubHub supports publishing outputs; governance and editorial decisions remain with the organization. It does this by making document assembly explicit and repeatable.
 
 Understanding structure first makes every other publishing guideline easier to apply—and helps ensure that published specifications remain clear, stable, and consumable over time.

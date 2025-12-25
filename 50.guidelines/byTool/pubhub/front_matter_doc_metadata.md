@@ -155,13 +155,11 @@ These issues frequently cause confusion during review and publication.
 
 ## How PubHub Supports Front Matter
 
-PubHub does not interpret document semantics. Instead, it:
+PubHub supports publishing outputs; governance and editorial decisions remain with the organization. It does this by:
 
 - Renders document metadata consistently in HTML and PDF
 - Preserves the structure and order defined by the authors
 - Supports reproducible outputs across published versions
-
-Responsibility for correctness and governance remains with the standards organization.
 
 ---
 

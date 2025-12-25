@@ -16,7 +16,7 @@ Publishing technical specifications is often one of the most fragile parts of st
 
 Specifications are typically authored collaboratively in Markdown, reviewed over time, and stored in Git repositories. When it comes time to publish, teams are expected to produce consistent, reviewable outputs—usually HTML and PDF—while preserving references, structure, and version integrity.
 
-PubHub (formerly known as **MD2HTML**) exists to support this publishing step. It does not change how specifications are authored or governed. Instead, it provides a reliable way to assemble Markdown content from GitHub repositories into publishable formats that standards organizations can depend on.
+PubHub (formerly known as **MD2HTML**) exists to support this publishing step. It does not change how specifications are authored or governed. Instead, it provides a reliable way to assemble Markdown content from GitHub repositories into publishable formats that standards organizations can depend on. PubHub supports publishing outputs; governance and editorial decisions remain with the organization.
 
 ---
 

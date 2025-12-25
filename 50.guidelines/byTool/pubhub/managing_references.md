@@ -148,13 +148,13 @@ These issues frequently lead to broken layouts or ambiguous references in publis
 
 ## How PubHub Supports Reference Handling
 
-PubHub does not interpret the meaning of references. Instead, it:
+PubHub supports publishing outputs; governance and editorial decisions remain with the organization. It does this by:
 
 - Preserves the explicit structure defined in the source content  
 - Renders references consistently in HTML and PDF outputs  
 - Ensures reference tables remain stable across versions  
 
-This approach keeps responsibility for correctness with the standards organization while providing reliable publishing support.
+This preserves stable rendering across published versions.
 
 ---
 

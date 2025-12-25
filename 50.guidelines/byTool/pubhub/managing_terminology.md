@@ -186,17 +186,13 @@ These issues often lead to confusion, inconsistent interpretation, and review de
 
 ### How PubHub Supports Terminology Handling
 
-PubHub does not define or validate terminology. Instead, it:
+PubHub supports publishing outputs; governance and editorial decisions remain with the organization. It does this by:
 
 - Preserves explicit definition structures in source content
-
 - Renders definitions and abbreviations consistently in HTML and PDF
-
 - Enables navigation and tooltips for defined terms
-
 - Maintains stability across published versions
 
-Responsibility for correctness and governance remains with the standards organization.
 
 ### Related Guidance
 

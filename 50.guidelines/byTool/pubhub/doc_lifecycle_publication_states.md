@@ -149,14 +149,14 @@ Clear separation between content evolution and state signaling improves trust an
 
 ## How PubHub Supports Document Lifecycle
 
-PubHub does not manage or enforce lifecycle decisions. Instead, it:
+PubHub supports publishing outputs; governance and editorial decisions remain with the organization. It does this by:
 
 - Renders publication metadata consistently in HTML and PDF outputs  
 - Preserves historical versions as published artifacts  
 - Supports clear visual signaling of document state  
 - Enables reproducible publication from specific repository states  
 
-Responsibility for lifecycle decisions remains with the standards organization.
+This supports clear lifecycle signaling without defining organizational decision-making.
 
 ---
 

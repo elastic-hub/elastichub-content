@@ -178,6 +178,6 @@ Clear assembly definitions reduce publishing errors and review friction.
 
 The `index.yaml` file defines how a technical specification is assembled and identified at publication time.
 
-By making document structure explicit, PubHub supports reliable, reproducible publishing while allowing standards organizations to retain control over authorship, governance, and review.
+PubHub supports publishing outputs; governance and editorial decisions remain with the organization. The `index.yaml` file makes assembly explicit and reproducible from version-controlled sources.
 
 Use this mechanism when publishing needs to be dependable, auditable, and aligned with formal release processes.
