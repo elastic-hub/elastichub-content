@@ -1,5 +1,6 @@
 ---
 title: Defining Document Assembly Using index.yaml
+layout: doc
 category: Guidelines
 audience_roles:
   - Editor

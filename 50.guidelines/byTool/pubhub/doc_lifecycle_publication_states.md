@@ -1,5 +1,6 @@
 ---
 title: Managing Document Lifecycle and Publication States
+layout: doc
 category: Guidelines
 audience_roles:
   - Editor

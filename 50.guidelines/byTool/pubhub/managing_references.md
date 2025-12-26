@@ -1,5 +1,6 @@
 ---
 title: Managing Normative and Informative References
+layout: doc
 category: Guidelines
 audience_roles:
   - Editor

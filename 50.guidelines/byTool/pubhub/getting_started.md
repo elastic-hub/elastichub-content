@@ -1,5 +1,6 @@
 ---
 title: Getting Started with PubHub (formerly MD2HTML)
+layout: doc
 category: Guidelines
 audience_roles:
   - Editor

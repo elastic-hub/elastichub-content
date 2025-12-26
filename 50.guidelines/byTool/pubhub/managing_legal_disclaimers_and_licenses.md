@@ -1,5 +1,6 @@
 ---
 title: Managing Legal Disclaimers and Licenses
+layout: doc
 category: Guidelines
 audience_roles:
   - Editor

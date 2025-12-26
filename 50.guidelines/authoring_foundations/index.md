@@ -1,5 +1,6 @@
 ---
 title: Overview — Authoring Foundations
+layout: doc
 category: Guidelines
 audience_roles:
   - Editor

@@ -1,5 +1,6 @@
 ---
 title: Managing Terminology, Definitions, and Abbreviations
+layout: doc
 category: Guidelines
 audience_roles:
   - Editor
