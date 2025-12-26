@@ -8,6 +8,7 @@ activities:
   - Publishing releases
   - Preparing specifications
 tool: PubHub
+layout: doc
 ---
 
 ## Context

@@ -10,6 +10,7 @@ activities:
 tools:
   - PubHub
   - Website Rendering
+layout: doc
 ---
 
 ## Context
