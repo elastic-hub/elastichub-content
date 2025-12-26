@@ -1,5 +1,6 @@
 ---
 title: Preparing HTML and PDF Outputs
+layout: doc
 category: Guidelines
 audience_roles:
   - Editor
@@ -9,7 +10,6 @@ activities:
   - Publishing specifications
   - Preparing releases
 tool: PubHub
-layout: doc
 ---
 
 ## Context

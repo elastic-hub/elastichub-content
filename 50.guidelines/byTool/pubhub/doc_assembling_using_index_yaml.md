@@ -1,5 +1,6 @@
 ---
 title: Defining Document Assembly Using index.yaml
+layout: doc
 category: Guidelines
 audience_roles:
   - Editor
@@ -8,7 +9,6 @@ activities:
   - Publishing releases
   - Preparing specifications
 tool: PubHub
-layout: doc
 ---
 
 ## Context

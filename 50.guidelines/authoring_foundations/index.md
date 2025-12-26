@@ -1,5 +1,6 @@
 ---
 title: Overview — Authoring Foundations
+layout: doc
 category: Guidelines
 audience_roles:
   - Editor
@@ -8,7 +9,6 @@ audience_roles:
 activities:
   - Authoring specifications
   - Preparing documents for review and publication
-layout: doc
 ---
 
 ## Context

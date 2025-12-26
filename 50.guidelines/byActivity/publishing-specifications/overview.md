@@ -1,5 +1,6 @@
 ---
 title: Overview of Publishing Guidance
+layout: doc
 category: Guidelines
 audience_roles:
   - Editor
@@ -10,7 +11,6 @@ activities:
 tools:
   - PubHub
   - Website Rendering
-layout: doc
 ---
 
 ## Context

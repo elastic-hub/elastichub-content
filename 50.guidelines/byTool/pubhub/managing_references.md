@@ -1,5 +1,6 @@
 ---
 title: Managing Normative and Informative References
+layout: doc
 category: Guidelines
 audience_roles:
   - Editor
@@ -8,7 +9,6 @@ activities:
   - Writing specifications
   - Publishing releases
 tool: PubHub
-layout: doc
 ---
 
 ## Context

@@ -1,5 +1,6 @@
 ---
 title: Managing Document Lifecycle and Publication States
+layout: doc
 category: Guidelines
 audience_roles:
   - Editor
@@ -9,7 +10,6 @@ activities:
   - Publishing specifications
   - Managing releases
 tool: PubHub
-layout: doc
 ---
 
 ## Context

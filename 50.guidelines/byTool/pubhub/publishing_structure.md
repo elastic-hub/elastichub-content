@@ -1,5 +1,6 @@
 ---
 title: Publishing Structure — How Specifications Are Assembled
+layout: doc
 category: Guidelines
 audience_roles:
   - Editor
@@ -8,7 +9,6 @@ activities:
   - Writing specifications
   - Publishing releases
 tool: PubHub
-layout: doc
 ---
 
 ## Context
